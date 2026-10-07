@@ -1,0 +1,5 @@
+﻿"No.","Quantity","Designator","Footprint","Value","Manufacturer Part","Manufacturer","Supplier Part","Supplier","Name"
+"1","3","CN1,CN2,CN3","CONN-TH_B2P-VH-LF-SN","","B2P-VH(LF)(SN)","JST","C160315","LCSC","B2P-VH(LF)(SN)"
+"2","1","CN4","CONN-TH_B2B-XH-A-LF-SN","","B2B-XH-A(LF)(SN)","JST","C158012","LCSC","B2B-XH-A(LF)(SN)"
+"3","1","R1","RES-TH_L17.0-W9.0-P7.50-D0.8-S9.00","Shenzhen","14D241K","RUILON(瑞隆源)","C233166","LCSC","14D241K"
+"4","1","U1","PWRM-TH_HLK-5M03","","HLK-5M03","HI-LINK(海凌科)","C209906","LCSC","HLK-5M03"
